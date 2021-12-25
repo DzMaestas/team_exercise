@@ -5,10 +5,13 @@
 .container_1 {
     background-color: blue;
     border-color: red;
-    padding: 20px;
-    display:flex;
-
+    padding: 100px;
+    
+    width: auto;
+    height:auto;
    border-style: ridge;
+   display:flex;
+   
 }
 .item1{
     flex: 1;
