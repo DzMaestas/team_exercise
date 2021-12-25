@@ -1,0 +1,25 @@
+
+
+
+
+.container_1 {
+    background-color: blue;
+    border-color: red;
+    padding: 20px;
+    display:flex;
+
+   border-style: ridge;
+}
+.item1{
+    flex: 1;
+    color:blueviolet;
+}
+.item2{
+    flex: 1;
+}
+.item3{
+    flex: 1;
+}
+.item3{
+    flex:1;
+}
